@@ -1,0 +1,25 @@
+{
+  "name": "scalelist",
+  "owner": {
+    "name": "Scalelist",
+    "email": "hello@scalelist.com"
+  },
+  "metadata": {
+    "description": "Official Scalelist plugins: find B2B leads with verified work emails and mobile numbers from Claude.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "scalelist",
+      "source": "./plugins/scalelist",
+      "description": "Connects Claude to the Scalelist MCP server: count a B2B audience for free, search people by title, industry, location and company size, then get verified work emails and mobile numbers.",
+      "version": "1.0.0",
+      "author": { "name": "Scalelist" },
+      "homepage": "https://scalelist.com/mcp-server/",
+      "repository": "https://github.com/Scalelist-Dev/scalelist-mcp-server",
+      "license": "MIT",
+      "category": "sales",
+      "keywords": ["lead-generation", "b2b-data", "email-finder", "phone-number-finder", "sales-prospecting", "mcp"]
+    }
+  ]
+}

@@ -27,6 +27,12 @@ Settings, Connectors, Add custom connector. Paste `https://mcp.scalelist.com/mcp
 claude mcp add --transport http scalelist https://mcp.scalelist.com/mcp
 ```
 
+Or install it as a plugin from this repo:
+```bash
+claude plugin marketplace add Scalelist-Dev/scalelist-mcp-server
+claude plugin install scalelist@scalelist
+```
+
 ### ChatGPT
 Settings, Connectors, add a custom connector. Paste `https://mcp.scalelist.com/mcp` and sign in.
 

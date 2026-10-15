@@ -1,0 +1,10 @@
+{
+  "name": "scalelist",
+  "description": "Find B2B leads with verified work emails and mobile numbers from Claude, through the official Scalelist MCP server.",
+  "version": "1.0.0",
+  "author": { "name": "Scalelist", "email": "hello@scalelist.com" },
+  "homepage": "https://scalelist.com/mcp-server/",
+  "repository": "https://github.com/Scalelist-Dev/scalelist-mcp-server",
+  "license": "MIT",
+  "keywords": ["lead-generation", "b2b-data", "email-finder", "phone-number-finder", "sales-prospecting", "mcp"]
+}
